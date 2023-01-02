@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: sighingnow/jekyll-gitbook
 title: Hogen's homepage
 description: Bookmark this to keep an eye on my project updates!
 markdown: GFM
