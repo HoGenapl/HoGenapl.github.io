@@ -1,9 +1,9 @@
 ---
 title: Design Draft
-author: Tao He
+author: hogen
 date: 2022-02-06
-category: Jekyll
+category: draft3
 layout: post
 ---
 
-This is an draft page.
+This is an draft3 page.
